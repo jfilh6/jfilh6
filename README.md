@@ -1,6 +1,4 @@
-## Hi there 👋
-### OLA TUDO BEM
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=123F53&width=435&lines=Ol%C3%A1%2C+bem+vindo!+Vamos+trocar+conhecimentos.)](https://git.io/typing-svg)
 
 <!--
 **jfilh6/jfilh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
